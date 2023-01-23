@@ -1,8 +1,4 @@
-# NoSQL-Data-Modelling-with-Cassandra-and-Python
-
-
-
-# Project: Data Modeling with Apache Cassandra
+# Project: NoSQL Data Modelling with Apache Cassandra and Python
 
 This project models user activity data for a music streaming app called Sparkify to optimize queries for understanding what songs users are listening to by using **Apache Cassandra**.
 
